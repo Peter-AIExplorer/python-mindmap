@@ -1730,7 +1730,7 @@ export default function PythonMindMap() {
                     paddingBottom: 1,
                   }}
                 >
-                  PolyC Devian
+                  Polyc Devian
                 </span>
               </span>
               <span style={{ color: "#222244", fontSize: 12 }}>·</span>
@@ -1747,6 +1747,38 @@ export default function PythonMindMap() {
                 Last updated{" "}
                 <span style={{ color: "#7777aa" }}>March 2026</span>
               </span>
+              <span style={{ color: "#222244", fontSize: 12 }}>·</span>
+              <a
+                href="https://python-mindmap.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: 6,
+                  fontSize: 12,
+                  color: "#5555cc",
+                  textDecoration: "none",
+                  border: "1px solid #2a2a5a",
+                  borderRadius: 5,
+                  padding: "3px 10px",
+                  background: "#0e0e2a",
+                  transition: "all 0.15s",
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.color = "#8888ff";
+                  e.currentTarget.style.borderColor = "#4444aa";
+                  e.currentTarget.style.background = "#14143a";
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.color = "#5555cc";
+                  e.currentTarget.style.borderColor = "#2a2a5a";
+                  e.currentTarget.style.background = "#0e0e2a";
+                }}
+              >
+                <span style={{ fontSize: 10 }}>▲</span>
+                <span>python-mindmap.vercel.app</span>
+              </a>
             </div>
           </div>
 
