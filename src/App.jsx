@@ -1730,7 +1730,7 @@ export default function PythonMindMap() {
                     paddingBottom: 1,
                   }}
                 >
-                  Devian
+                  PolyC Devian
                 </span>
               </span>
               <span style={{ color: "#222244", fontSize: 12 }}>·</span>

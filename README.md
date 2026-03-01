@@ -103,4 +103,4 @@ Feel free to fork it, adapt it for your own notes, or suggest concepts that are 
 
 ---
 
-*Made by Devian · March 2026*
+*Made by PolyC Devian · March 2026*
